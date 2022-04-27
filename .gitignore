@@ -1,4 +1,6 @@
 /.metadata/
 /RawTestSuit/.settings
+/RawTestSuit/target
+/RawTestSuit/.project
 /target
 /.project
